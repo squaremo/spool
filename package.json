@@ -1,0 +1,19 @@
+{
+  "author": "Michael Bridgen <mikeb@squaremobius.net>",
+  "name": "spool",
+  "description": "Redis-backed buffering and last-value caching",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/squaremo/spool.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">0.4"
+  },
+  "dependencies": {
+    "redis": "~0.7.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
